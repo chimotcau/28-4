@@ -8,4 +8,4 @@ for y in range(1,68):
     if f(7,y,1)==1:
         print(y)
         break
-    #answer:12            
+    #answer:21            
